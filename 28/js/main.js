@@ -1,6 +1,7 @@
-let mojaLiczba = 2;
+let mojaLiczba = 12;
 
-if (mojaLiczba > 10)
+if (mojaLiczba > 10) {
     console.log('Podana liczba jest większa od 10');
-else
+} else {
     console.log('Podana liczba nie jest większa od 10');
+}

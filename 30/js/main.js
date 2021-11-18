@@ -1,3 +1,3 @@
-let newtext = document.querySelector('p');
+let newText = document.querySelector('p');
 
-newtext.textContent = 'Nowa treść';
+newText.textContent = 'Nowa treść';
